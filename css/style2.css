@@ -1,0 +1,23 @@
+header{
+    background-color: #ffe561;
+    font-weight: 600;
+}
+
+h1{
+    font-size: 63px;
+    line-height: 1em;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+footer{
+    background-color: #ffe561;
+}
